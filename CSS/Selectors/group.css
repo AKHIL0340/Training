@@ -1,0 +1,10 @@
+head,
+p{
+    background-color: blueviolet;
+    color: black;
+}
+h1,
+a{
+    background-color: black;
+    color: blueviolet;
+}

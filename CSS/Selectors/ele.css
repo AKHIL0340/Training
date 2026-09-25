@@ -3,3 +3,7 @@ h1{
     background-color: antiquewhite;
     font-style:italic;
 }
+p{
+    background-color: darkmagenta;
+    color: antiquewhite;
+}
