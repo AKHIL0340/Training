@@ -1,0 +1,8 @@
+p+h4{
+    background-color: aquamarine;
+    color: blue;
+}
+h1~p{
+    background-color: antiquewhite;
+    color: darkgreen;
+}
