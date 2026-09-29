@@ -1,0 +1,7 @@
+input[type]{
+    background-color: beige;
+    color: blue;
+        }
+input[type=number]{
+    font-style: italic;
+}        
