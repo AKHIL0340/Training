@@ -1,0 +1,19 @@
+#name{
+    color: blue;
+    background-color: beige;
+}
+#rgb{
+    background-color: rgb(255,220,132);
+    color: rgb(145,180,220);
+}
+#rgba{
+    background-color: rgba(170,230,70,0.7);
+    color: rgba(220,40,70,.5);
+}
+#hexa{
+    background-color: #13211A;
+    color: #F00
+}
+#opacity{
+    opacity: .4;
+}

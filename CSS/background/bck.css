@@ -1,0 +1,16 @@
+h3{
+    background-color: #f1C;
+}
+#rgb{
+    height: 170px;
+    width: 160px;
+    background-image: url(thumnail.jpg);
+    background-repeat: repeat-x;
+}
+#rgba{
+    height: 140px;
+    width: 390px;
+    background-image: url(thumnail.jpg);
+    background-position: top right;
+}
+
